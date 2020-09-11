@@ -49,8 +49,9 @@ body {
 }
 .underConstruction h2 {
   font-family: "Special Elite", cursive;
-  font-size: 5rem;
+  font-size: 3.5rem;
   color: var(--main-red-color);
   letter-spacing: 0.3rem;
+  padding-left: 18rem;
   text-align: center;
 }
